@@ -1,2 +1,3 @@
 # hyprland-dotfiles
-Dotfiles that I use on my main system
+
+## Attention! This repo is discontinued, due to migration (hyprland -> KDE).
